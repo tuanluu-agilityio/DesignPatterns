@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AdapterPatter_Modified
+namespace AdapterPatternModified
 {
     interface RectInterface
     {
