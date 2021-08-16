@@ -1,7 +1,6 @@
-﻿using PrototypePattern;
-using System;
+﻿using System;
 
-namespace Prototype
+namespace Creational.PrototypePattern
 {
     class Program
     {

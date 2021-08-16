@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProxyPattern
+namespace Structure.ProxyPattern
 {
     /*
      * Concept:

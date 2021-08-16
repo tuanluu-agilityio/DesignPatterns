@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace PrototypePattern
+namespace Creational.PrototypePattern
 {
     public class Nano : BasicCar
     {

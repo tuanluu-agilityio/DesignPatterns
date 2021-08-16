@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FacadePattern.RobotParts
+namespace Structure.FacadePattern.RobotParts
 {
     public class RobotBody
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace BuilderPattern
+namespace Creational.BuilderPattern
 {
     /// <summary>
     /// The Builder pattern is useful for creating complex objects that have multiple parts.

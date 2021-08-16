@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BridgePattern
+namespace Structure.BridgePattern
 {
     /*
      * Concept:

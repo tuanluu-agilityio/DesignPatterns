@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FactoryMethodPattern
+namespace Creational.FactoryMethodPattern
 {
     /*
      * Real-Life example:

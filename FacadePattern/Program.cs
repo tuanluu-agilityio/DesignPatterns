@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FacadePattern
+namespace Structure.FacadePattern
 {
     /*
      * Concept:

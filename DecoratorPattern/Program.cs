@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DecoratorPattern
+namespace Structure.DecoratorPattern
 {
     /*
      * Concept:

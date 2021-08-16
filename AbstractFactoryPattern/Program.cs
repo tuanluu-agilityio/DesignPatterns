@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AbstractFactoryPattern
+namespace Creational.AbstractFactoryPattern
 {
     /*
      * An abstract factory is called a factory of factories. In this pattern, you provide a way to

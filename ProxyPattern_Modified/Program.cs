@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace ProxyPatternModified
+namespace Structure.ProxyPatternModified
 {
     /*
      * Concept:

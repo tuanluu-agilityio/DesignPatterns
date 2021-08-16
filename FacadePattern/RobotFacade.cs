@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using FacadePattern.RobotParts;
+using Structure.FacadePattern.RobotParts;
 
-namespace FacadePattern
+namespace Structure.FacadePattern
 {
     public class RobotFacade
     {

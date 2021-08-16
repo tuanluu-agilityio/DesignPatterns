@@ -1,7 +1,6 @@
 ﻿using System;
-using PrototypePattern;
 
-namespace DesignPatterns
+namespace Creational.SingletonPattern
 {
     /// <summary>
     /// A particular class should have only one instance. You can use this instance whenever you need it and 

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CompositePattern
+namespace Structure.CompositePattern
 {
     interface IEmployee
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading;
 
-namespace FlyweightPatternModified
+namespace Structure.FlyweightPatternModified
 {
     // our interface
     interface IRobot
